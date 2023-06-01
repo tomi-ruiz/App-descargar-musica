@@ -29,4 +29,8 @@ Abrir el archivo con el editor de texto, cargamos las credenciales y guardamos.
 Paso 4:
 Descargar el archivo con el proyecto, ponerlo en una carpeta, abrirlo con el editor de texto, ejecutarlo y a descargar toda la música deseada.    
 
-CONFIGURACIÓN ÚNICA Y SE PUEDE SEGUIR UTILIZANDO 	
+CONFIGURACIÓN ÚNICA Y SE PUEDE SEGUIR UTILIZANDO.
+
+Creado por Matias Perdomo y Tomas Ruiz
+
+
